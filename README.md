@@ -3,7 +3,7 @@ A hand written recognition model using python and scikit-learn with an acuuracy 
 
 # Dependencies
 1.Python<br>
-2.scikit-learn
+2.scikit-learn<br>
 3.numpy
 
 
